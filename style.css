@@ -172,6 +172,15 @@ ul {
   color: #388dc0;
 }
 
+#donation {
+  border: 2px solid #05ce78;
+}
+#donation:hover {
+  border: 2px solid #ebeefb;
+  background-color: #ebeefb;
+  color: #05ce78;
+}
+
 #rocket {
   position: absolute;
   z-index: 10;
